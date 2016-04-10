@@ -1,0 +1,25 @@
+{
+  "name": "jscs-preset-kashoo",
+  "version": "1.0.0",
+  "description": "Shared jscs config for Kashoo javascript projects",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "main": ".jscsrc",
+  "files": [
+    ".jscsrc"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jscs",
+    "jscs-preset",
+    "jscs preset"
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Kashoo/jscs-preset-kashoo"
+  }
+}
