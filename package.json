@@ -1,6 +1,6 @@
 {
   "name": "jscs-preset-kashoo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared jscs config for Kashoo javascript projects",
   "license": "Apache-2.0",
   "engines": {
@@ -18,8 +18,8 @@
     "jscs-preset",
     "jscs preset"
   ],
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/Kashoo/jscs-preset-kashoo"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kashoo/jscs-preset-kashoo"
   }
 }
