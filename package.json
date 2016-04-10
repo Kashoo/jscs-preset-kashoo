@@ -1,14 +1,14 @@
 {
   "name": "jscs-preset-kashoo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared jscs config for Kashoo javascript projects",
   "license": "Apache-2.0",
   "engines": {
     "node": ">= 0.10"
   },
-  "main": ".jscsrc",
+  "main": "jscs.json",
   "files": [
-    ".jscsrc"
+    "jscs.json"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
